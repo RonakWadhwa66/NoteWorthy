@@ -33,21 +33,25 @@ Software:
 Windows 7,  Linux mint 16,  Mac OS X Yosemite or newer
 
 
-Usage
-Launch the application.
-Create a master password for your password vault.
-Add, view, edit, or delete passwords.
-Generate strong passwords with customizable settings.
+## Usage
+
+1. Launch the application.
+2. Create a master password for your password vault.
+3. Add, view, edit, or delete passwords.
+4. Generate strong passwords with customizable settings.
 
 
 
-Screenshots
+## Screenshots
+Home Page:
 ![image](https://github.com/RonakWadhwa66/NoteWorthy/assets/88489591/81031a43-bd5b-4ce0-a2b5-f57e7262c351)
 
-
+Sign in Screen:
 ![image](https://github.com/RonakWadhwa66/NoteWorthy/assets/88489591/1244c731-bfbe-48db-8919-79e4692a2e9a)
 
+Stored Passwords Page:
 ![image](https://github.com/RonakWadhwa66/NoteWorthy/assets/88489591/82974c4b-4a0e-4fd5-9a59-99acbfe2514e)
 
+Password Generator:
 ![image](https://github.com/RonakWadhwa66/NoteWorthy/assets/88489591/9a02e034-54a7-436f-8057-d00a9c4673f9)
 
