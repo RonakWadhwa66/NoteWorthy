@@ -6,8 +6,7 @@ A secure and versatile password manager and generator designed to help you store
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 
@@ -23,7 +22,7 @@ A secure and versatile password manager and generator designed to help you store
 
 Follow these instructions to get the project up and running on your local machine.
 
-### Prerequisites
+## Prerequisites
 
 Hardware:
 Intel core i3 4600 or Ryzen 3 1200 or newer
